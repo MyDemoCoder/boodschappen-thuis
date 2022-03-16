@@ -5,5 +5,6 @@ appels
 peren
 wortel
 
-schoonmaakmiddelen
-vaatdoek
+schoonmaak:
+doekjes
+zeep
